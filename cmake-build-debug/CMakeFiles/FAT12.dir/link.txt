@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/FAT12.dir/main.c.o CMakeFiles/FAT12.dir/file_reader.c.o -o FAT12 
